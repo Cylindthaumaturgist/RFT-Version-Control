@@ -1,8 +1,9 @@
 {
   "expiredVersions": [
     "1.0.0",
-    "1.0.1"
+    "1.0.1",
+    "1.0.6"
   ],
-  "activeVersion": "1.0.6",
-  "latestApp": "https://files.catbox.moe/96p73g.apk"
+  "activeVersion": "1.0.7",
+  "latestApp": "https://expo.dev/artifacts/eas/b7SSjnSxX9fxhZyVVcAUP2.apk"
 }
